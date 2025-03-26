@@ -1,7 +1,0 @@
-
-streamlit
-opencv-python
-numpy
-pytesseract
-Pillow
-fpdf
