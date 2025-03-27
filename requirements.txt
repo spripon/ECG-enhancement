@@ -4,3 +4,5 @@ numpy==1.26.4
 Pillow==10.2.0
 fpdf
 easyocr==1.7.1
+torch==2.2.2
+torchvision==0.17.2
